@@ -1,5 +1,5 @@
 # Portfolio
-## Artificial Intelligence, Computer Vision & Data Engineering
+## Artificial Intelligence, Computer Vision, Data Engineering
 
 This repository contains academic projects including deep learning pipelines, computer vision models, and business intelligence PowerBI dashboards.
 
@@ -36,7 +36,7 @@ This repository contains academic projects including deep learning pipelines, co
   * [Project Overview (PDF)](./Computer%20vision/Project%201%20-%20Face%20recognition/1.%20Project%20overview%20-%20Face%20recognition.pdf)
   * [Jupyter Notebook Code](./Computer%20vision/Project%201%20-%20Face%20recognition)
 
-### [Project 2: Classification, Segmentation & Adversarial Attacks](./Computer%20vision/Project%202%20-%20Classification,%20segmentation,%20adversarial%20attacks)
+### [Project 2: Classification, Segmentation and Adversarial Attacks](./Computer%20vision/Project%202%20-%20Classification,%20segmentation,%20adversarial%20attacks)
 * **Classification:** Benchmarking Small ResNet, standard ResNet-18, ConvNeXt, and Vision Transformers (ViT) with warm-up schedules and full fine-tuning.
 * **Semantic Segmentation:** Implementing foundation models using **DINOv2** feature backbones for pixel-level semantic mask prediction and confusion matrix validation.
 * **Adversarial Robustness and Explainability:** Generating Projected Gradient Descent (PGD) attacks to fool classification and segmentation models, combined with Grad-CAM saliency heatmaps to analyze decision boundary failure modes.
