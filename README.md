@@ -10,7 +10,7 @@ This repository contains academic projects including deep learning pipelines, co
 | :--- | :--- | :--- |
 | **[`Bachelor + Master Thesis`](./Bachelor%20+%20Master%20Thesis)** | Advanced clinical AI & mathematical modeling | High-resolution physiological time-series, clustering |
 | **[`Computer vision`](./Computer%20vision)** | Deep Learning, segmentation, classification | ViT, DINOv2, ConvNeXt, adversarial robustness (PGD), Grad-CAM |
-| **[`Power BI`](./Power%20BI)** | Business intelligence & data analytics |
+| **[`Power BI`](./Power%20BI)** | Business intelligence & data analytics | Interactive reporting, DAX, KPI visuals, executive dashboards |
 
 ---
 
