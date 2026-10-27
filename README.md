@@ -1,11 +1,12 @@
-# Portfolio | Artificial Intelligence, Computer Vision & Data Engineering
+# Portfolio
+## Artificial Intelligence, Computer Vision & Data Engineering
 
 This repository contains academic projects including deep learning pipelines, computer vision models, and business intelligence PowerBI dashboards.
 
 
 ## Repository Structure
 
-| Directory | Focus Area | Key Technologies & Highlights |
+| Directory | Focus Area | Highlights |
 | :--- | :--- | :--- |
 | **[`Bachelor + Master Thesis`](./Bachelor%20+%20Master%20Thesis)** | Advanced clinical AI & mathematical modeling | High-resolution physiological time-series, clustering |
 | **[`Computer vision`](./Computer%20vision)** | Deep Learning, segmentation, classification | ViT, DINOv2, ConvNeXt, adversarial robustness (PGD), Grad-CAM |
