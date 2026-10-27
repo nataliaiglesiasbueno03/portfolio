@@ -19,12 +19,12 @@ This repository contains academic projects including deep learning pipelines, co
 ### 1. Master’s Thesis
 * **Title:** Data-Driven Clustering of Intracranial Pressure Time-Series and CT Characterization.
 * **Institution:** KU Leuven - Master of Artificial Intelligence
-* **Deliverable:** 📄 [Portfolio Master Thesis Overview](./Bachelor%20+%20Master%20Thesis/Portfolio%20Master%20thesis.pdf)
+* **Deliverable:** [Portfolio Master Thesis Overview](./Bachelor%20+%20Master%20Thesis/Portfolio%20Master%20thesis.pdf)
 
 ### 2. Bachelor’s Thesis
 * **Title:** Analysis of Glioblastomas and DIPG: Identification of Potential Therapeutic Targets.
-* **Institution:** Universidad Francisco de Vitoria - Degree in Mathematical Engineering
-* **Deliverable:** 📄 [Portfolio Bachelor Thesis Overview](./Bachelor%20+%20Master%20Thesis/Portfolio%20Bachelor%20thesis.pdf)
+* **Institution:** Universidad Francisco de Vitoria - Degree in Mathematical Engineering + Quantum Computing
+* **Deliverable:** [Portfolio Bachelor Thesis Overview](./Bachelor%20+%20Master%20Thesis/Portfolio%20Bachelor%20thesis.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ This repository contains academic projects including deep learning pipelines, co
 ### [Project 2: Classification, Segmentation & Adversarial Attacks](./Computer%20vision/Project%202%20-%20Classification,%20segmentation,%20adversarial%20attacks)
 * **Classification:** Benchmarking Small ResNet, standard ResNet-18, ConvNeXt, and Vision Transformers (ViT) with warm-up schedules and full fine-tuning.
 * **Semantic Segmentation:** Implementing foundation models using **DINOv2** feature backbones for pixel-level semantic mask prediction and confusion matrix validation.
-* **Adversarial Robustness & Explainability:** Generating Projected Gradient Descent (PGD) attacks to fool classification and segmentation models, combined with Grad-CAM saliency heatmaps to analyze decision boundary failure modes.
+* **Adversarial Robustness and Explainability:** Generating Projected Gradient Descent (PGD) attacks to fool classification and segmentation models, combined with Grad-CAM saliency heatmaps to analyze decision boundary failure modes.
 * **Deliverables:**
   * [Detailed Project Overview (PDF)](./Computer%20vision/Project%202%20-%20Classification,%20segmentation,%20adversarial%20attacks/2.%20Project%20overview%20-%20Classification,%20Segmentation,%20Adversarial%20attacks.pdf)
   * [Jupyter Notebook Code](./Computer%20vision/Project%202%20-%20Classification,%20segmentation,%20adversarial%20attacks/2.%20Code%20-%20Classification,%20Segmentation,%20Adversarial%20attacks.ipynb)
