@@ -1,0 +1,60 @@
+================================================================================
+PROJECT FIGURES & RESULT IMAGES 
+================================================================================
+
+01_dataset_overview/
+  1. dataset_training_class_frequencies.png
+  2. dataset_sample_images_and_segmentation_masks.jpg
+  21. dataset_full_class_frequencies.png
+
+02_classification/
+  ├── training_and_validation_curves/
+  │     3. model_a1_small_resnet_training_and_validation_curves.png
+  │     4. model_a2_standard_resnet18_training_and_validation_curves.png
+  │     5. model_b1_convnext_classifier_warmup_curves.png
+  │     6. model_b1_convnext_full_finetuning_curves.png
+  │     7. model_b2_vision_transformer_classifier_warmup_curves.png
+  │     8. model_b2_vision_transformer_full_finetuning_curves.png
+  │
+  └── error_analysis_and_predictions/
+        9. model_a1_small_resnet_prediction_examples.jpg
+        10. model_a2_standard_resnet18_prediction_examples.jpg
+        11. model_b1_convnext_prediction_examples.jpg
+        12. model_b2_vision_transformer_prediction_examples.jpg
+
+03_segmentation/
+  13. model_c_dinov2_segmentation_training_and_validation_curves.png
+  14. model_c_dinov2_segmentation_validation_confusion_matrix.png
+  15. model_c_dinov2_segmentation_validation_prediction_examples.jpg
+  16. model_c_dinov2_segmentation_test_prediction_examples.jpg
+  20. model_c_dinov2_segmentation_prediction_comparisons.jpg
+
+04_adversarial_attacks/
+  ├── classification/
+  │     17. adversarial_attack_classification_projected_gradient_descent_examples.jpg
+  │     18. adversarial_attack_classification_explainability_heatmaps.jpg
+  │     19. adversarial_attack_classification_person_score_distributions.png
+  │
+  └── segmentation/
+        22. adversarial_attack_segmentation_example_motorbike_person.jpg
+        23. adversarial_attack_segmentation_example_train_person.jpg
+        24. adversarial_attack_segmentation_example_person_laptop.jpg
+        25. adversarial_attack_segmentation_example_person_bottle.jpg
+        26. adversarial_attack_segmentation_example_racetrack_motorbike.jpg
+        27. adversarial_attack_segmentation_example_baby_sofa.jpg
+        28. adversarial_attack_segmentation_example_street_motorbike_bus.jpg
+        29. adversarial_attack_segmentation_example_office_monitor_person.jpg
+        30. adversarial_attack_segmentation_example_sitting_person_pottedplant.jpg
+        31. adversarial_attack_segmentation_example_baby_lights.jpg
+        32. adversarial_attack_segmentation_example_sailboat_bird_person.jpg
+        33. adversarial_attack_segmentation_example_sofa_christmas_dog_person.jpg
+        34. adversarial_attack_segmentation_example_subway_train_person.jpg
+        35. adversarial_attack_segmentation_example_kitchen_person.jpg
+        36. adversarial_attack_segmentation_example_cyclist_bicycle_bus.jpg
+        37. adversarial_attack_segmentation_example_blue_racing_motorbike.jpg
+        38. adversarial_attack_segmentation_example_cow_wall_poster.jpg
+        39. adversarial_attack_segmentation_example_red_racing_motorbike.jpg
+        40. adversarial_attack_segmentation_example_toddler_suit.jpg
+        41. adversarial_attack_segmentation_example_girl_dining_table.jpg
+        42. adversarial_attack_segmentation_summary_grid_person_to_chair.jpg
+================================================================================
